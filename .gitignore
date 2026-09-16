@@ -1,0 +1,4 @@
+*.class
+dsa-checklist-next/node_modules/
+dsa-checklist-next/.next/
+dsa-checklist-next/out/
